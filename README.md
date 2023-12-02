@@ -21,6 +21,11 @@ Each day's work is organized into folders by day and includes solutions in diffe
 ```
 
 ## Daily Problem Solutions
+ 
  ### [Day 1](./Day-1)
   #### LeetCode
    - [Java](./Day-1/LeetCode/Java/Solution.java): Check If Two String Arrays are Equivalent
+
+ ### [Day 2](./Day-2)
+  #### LeetCode
+   - [Java](./Day-2/LeetCode/Java/Solution.java): Find Words That Can Be Formed by Characters
