@@ -29,3 +29,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 2](./Day-2)
   #### LeetCode
    - [Java](./Day-2/LeetCode/Java/Solution.java): Find Words That Can Be Formed by Characters
+
+ ### [Day 3](./Day-3)
+  #### LeetCode
+   - [Java](./Day-3/LeetCode/Java/Solution.java): Minimum Time Visiting All Points
