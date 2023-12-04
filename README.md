@@ -33,3 +33,8 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 3](./Day-3)
   #### LeetCode
    - [Java](./Day-3/LeetCode/Java/Solution.java): Minimum Time Visiting All Points
+
+ ### [Day 4](./Day-4)
+  #### LeetCode
+   - [Java](./Day-4/LeetCode/Java/Solution.java): Largest 3-Same-Digit Number in String
+
