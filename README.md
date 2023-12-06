@@ -42,3 +42,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
   #### LeetCode
    - [Java](./Day-5/LeetCode/Java/Solution.java): Count of Matches in Tournament
 
+ ### [Day 6](./Day-6)
+  #### LeetCode
+   - [Java](./Day-6/LeetCode/Java/Solution.java): Calculate Money in LeetCode Bank
+
