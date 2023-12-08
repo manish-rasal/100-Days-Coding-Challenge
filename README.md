@@ -50,3 +50,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
   #### LeetCode
    - [Java](./Day-7/LeetCode/Java/Solution.java): Largest Odd Number in String
 
+ ### [Day 8](./Day-8)
+  #### LeetCode
+   - [Java](./Day-8/LeetCode/Java/Solution.java): Largest Odd Number in String
+
