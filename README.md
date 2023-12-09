@@ -54,3 +54,8 @@ Each day's work is organized into folders by day and includes solutions in diffe
   #### LeetCode
    - [Java](./Day-8/LeetCode/Java/Solution.java): Largest Odd Number in String
 
+ ### [Day 9](./Day-9)
+  #### LeetCode
+   - [Java](./Day-9/LeetCode/Java/Solution.java): Binary Tree Inorder Traversal
+   - [C++](./Day-9/LeetCode/C++/Solution.cpp): Binary Tree Inorder Traversal
+
