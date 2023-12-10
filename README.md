@@ -59,3 +59,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
    - [Java](./Day-9/LeetCode/Java/Solution.java): Binary Tree Inorder Traversal
    - [C++](./Day-9/LeetCode/C++/Solution.cpp): Binary Tree Inorder Traversal
 
+ ### [Day 10](./Day-10)
+  #### LeetCode
+   - [Java](./Day-10/LeetCode/Java/Solution.java): Transpose Matrix
+
