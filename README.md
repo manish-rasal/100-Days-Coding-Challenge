@@ -63,3 +63,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
   #### LeetCode
    - [Java](./Day-10/LeetCode/Java/Solution.java): Transpose Matrix
 
+ ### [Day 11](./Day-11)
+  #### LeetCode
+   - [Java](./Day-11/LeetCode/Java/Solution.java): Element Appearing More Than 25% In Sorted Array
+
