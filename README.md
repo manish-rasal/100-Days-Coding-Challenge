@@ -70,3 +70,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 12](./Day-12)
   #### LeetCode
    - [Java](./Day-12/LeetCode/Java/Solution.java): Maximum Product of Two Elements in an Array
+
+ ### [Day 13](./Day-13)
+  #### LeetCode
+   - [Java](./Day-13/LeetCode/Java/Solution.java): Special Positions in a Binary Matrix
