@@ -74,3 +74,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 13](./Day-13)
   #### LeetCode
    - [Java](./Day-13/LeetCode/Java/Solution.java): Special Positions in a Binary Matrix
+
+ ### [Day 14](./Day-14)
+  #### LeetCode
+   - [Java](./Day-14/LeetCode/Java/Solution.java): Difference Between Ones and Zeros in Row and Column
