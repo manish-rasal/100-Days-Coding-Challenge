@@ -86,3 +86,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 16](./Day-16)
   #### LeetCode
    - [Java](./Day-16/LeetCode/Java/Solution.java): Valid Anagram
+
+ ### [Day 17](./Day-17)
+  #### LeetCode
+   - [Java](./Day-17/LeetCode/Java/Solution.java): Design a Food Rating System
