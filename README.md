@@ -90,3 +90,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 17](./Day-17)
   #### LeetCode
    - [Java](./Day-17/LeetCode/Java/Solution.java): Design a Food Rating System
+
+ ### [Day 18](./Day-18)
+  #### LeetCode
+   - [Java](./Day-18/LeetCode/Java/Solution.java): Maximum Product Difference Between Two Pairs
