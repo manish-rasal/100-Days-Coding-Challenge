@@ -95,6 +95,10 @@ Each day's work is organized into folders by day and includes solutions in diffe
   #### LeetCode
    - [Java](./Day-18/LeetCode/Java/Solution.java): Maximum Product Difference Between Two Pairs
 
-### [Day 19](./Day-19)
-#### LeetCode
-- [Java](./Day-19/LeetCode/Java/Solution.java): Image Smoother
+ ### [Day 19](./Day-19)
+  #### LeetCode
+   - [Java](./Day-19/LeetCode/Java/Solution.java): Image Smoother
+
+ ### [Day 20](./Day-20)
+  #### LeetCode
+   - [Java](./Day-20/LeetCode/Java/Solution.java): Buy Two Chocolates
