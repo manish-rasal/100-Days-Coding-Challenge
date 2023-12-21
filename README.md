@@ -102,3 +102,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 20](./Day-20)
   #### LeetCode
    - [Java](./Day-20/LeetCode/Java/Solution.java): Buy Two Chocolates
+
+ ### [Day 21](./Day-21)
+  #### LeetCode
+   - [Java](./Day-21/LeetCode/Java/Solution.java): Widest Vertical Area Between Two Points Containing No Points
