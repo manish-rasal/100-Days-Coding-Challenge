@@ -106,3 +106,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 21](./Day-21)
   #### LeetCode
    - [Java](./Day-21/LeetCode/Java/Solution.java): Widest Vertical Area Between Two Points Containing No Points
+
+ ### [Day 22](./Day-22)
+  #### LeetCode
+   - [Java](./Day-22/LeetCode/Java/Solution.java): Maximum Score After Splitting a String
