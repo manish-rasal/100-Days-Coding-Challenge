@@ -110,3 +110,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 22](./Day-22)
   #### LeetCode
    - [Java](./Day-22/LeetCode/Java/Solution.java): Maximum Score After Splitting a String
+
+ ### [Day 23](./Day-23)
+  #### LeetCode
+   - [Java](./Day-23/LeetCode/Java/Solution.java): Path Crossing
