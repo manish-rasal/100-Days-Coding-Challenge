@@ -114,3 +114,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 23](./Day-23)
   #### LeetCode
    - [Java](./Day-23/LeetCode/Java/Solution.java): Path Crossing
+
+ ### [Day 24](./Day-24)
+  #### LeetCode
+   - [Java](./Day-24/LeetCode/Java/Solution.java): Minimum Changes To Make Alternating Binary String
