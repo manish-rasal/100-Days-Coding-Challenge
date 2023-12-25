@@ -118,3 +118,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 24](./Day-24)
   #### LeetCode
    - [Java](./Day-24/LeetCode/Java/Solution.java): Minimum Changes To Make Alternating Binary String
+
+ ### [Day 25](./Day-25)
+  #### LeetCode
+   - [Java](./Day-25/LeetCode/Java/Solution.java): Decode Ways
