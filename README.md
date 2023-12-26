@@ -122,3 +122,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 25](./Day-25)
   #### LeetCode
    - [Java](./Day-25/LeetCode/Java/Solution.java): Decode Ways
+
+ ### [Day 26](./Day-26)
+  #### LeetCode
+   - [Java](./Day-26/LeetCode/Java/Solution.java): Number of Dice Rolls With Target Sum
