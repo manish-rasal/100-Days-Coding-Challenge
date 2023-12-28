@@ -130,3 +130,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 27](./Day-27)
   #### LeetCode
    - [Java](./Day-27/LeetCode/Java/Solution.java): Minimum Time to Make Rope Colorful
+
+ ### [Day 28](./Day-28)
+  #### LeetCode
+   - [C++](./Day-28/LeetCode/C++/Solution.cpp): String Compression II
