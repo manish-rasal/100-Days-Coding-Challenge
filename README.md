@@ -134,3 +134,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 28](./Day-28)
   #### LeetCode
    - [C++](./Day-28/LeetCode/C++/Solution.cpp): String Compression II
+
+ ### [Day 29](./Day-29)
+  #### LeetCode
+   - [Java](./Day-29/LeetCode/Java/Solution.java): Minimum Difficulty of a Job Schedule
