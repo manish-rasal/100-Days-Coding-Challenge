@@ -138,3 +138,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 29](./Day-29)
   #### LeetCode
    - [Java](./Day-29/LeetCode/Java/Solution.java): Minimum Difficulty of a Job Schedule
+
+ ### [Day 30](./Day-30)
+  #### LeetCode
+   - [Java](./Day-30/LeetCode/Java/Solution.java): Redistribute Characters to Make All Strings Equal
