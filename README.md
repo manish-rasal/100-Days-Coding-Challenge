@@ -142,3 +142,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 30](./Day-30)
   #### LeetCode
    - [Java](./Day-30/LeetCode/Java/Solution.java): Redistribute Characters to Make All Strings Equal
+
+ ### [Day 31](./Day-31)
+  #### LeetCode
+   - [Java](./Day-31/LeetCode/Java/Solution.java): Largest Substring Between Two Equal Characters
