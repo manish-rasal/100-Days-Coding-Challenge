@@ -146,3 +146,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 31](./Day-31)
   #### LeetCode
    - [Java](./Day-31/LeetCode/Java/Solution.java): Largest Substring Between Two Equal Characters
+
+ ### [Day 32](./Day-32)
+  #### LeetCode
+   - [Java](./Day-32/LeetCode/Java/Solution.java): Assign Cookies
