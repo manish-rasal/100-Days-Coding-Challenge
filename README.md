@@ -150,3 +150,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 32](./Day-32)
   #### LeetCode
    - [Java](./Day-32/LeetCode/Java/Solution.java): Assign Cookies
+
+ ### [Day 33](./Day-33)
+  #### LeetCode
+   - [Java](./Day-33/LeetCode/Java/Solution.java): Convert an Array Into a 2D Array With Conditions
