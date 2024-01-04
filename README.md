@@ -158,3 +158,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 34](./Day-34)
   #### LeetCode
    - [Java](./Day-34/LeetCode/Java/Solution.java): Number of Laser Beams in a Bank
+
+ ### [Day 35](./Day-35)
+  #### LeetCode
+   - [Java](./Day-35/LeetCode/Java/Solution.java): Minimum Number of Operations to Make Array Empty
