@@ -162,3 +162,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 35](./Day-35)
   #### LeetCode
    - [Java](./Day-35/LeetCode/Java/Solution.java): Minimum Number of Operations to Make Array Empty
+
+ ### [Day 36](./Day-36)
+  #### LeetCode
+   - [Java](./Day-36/LeetCode/Java/Solution.java): Longest Increasing Subsequence
