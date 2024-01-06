@@ -166,3 +166,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 36](./Day-36)
   #### LeetCode
    - [Java](./Day-36/LeetCode/Java/Solution.java): Longest Increasing Subsequence
+
+ ### [Day 37](./Day-37)
+  #### LeetCode
+   - [Java](./Day-37/LeetCode/Java/Solution.java): Maximum Profit in Job Scheduling
