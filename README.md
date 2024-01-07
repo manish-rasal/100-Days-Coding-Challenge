@@ -170,3 +170,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 37](./Day-37)
   #### LeetCode
    - [Java](./Day-37/LeetCode/Java/Solution.java): Maximum Profit in Job Scheduling
+
+ ### [Day 38](./Day-38)
+  #### LeetCode
+   - [Java](./Day-38/LeetCode/Java/Solution.java): Arithmetic Slices II - Subsequence
