@@ -174,3 +174,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 38](./Day-38)
   #### LeetCode
    - [Java](./Day-38/LeetCode/Java/Solution.java): Arithmetic Slices II - Subsequence
+
+### [Day 39](./Day-39)
+#### LeetCode
+- [Java](./Day-39/LeetCode/Java/Solution.java): Range Sum of BST
