@@ -182,3 +182,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 40](./Day-40)
   #### LeetCode
    - [Java](./Day-40/LeetCode/Java/Solution.java): Leaf-Similar Trees
+
+ ### [Day 41](./Day-41)
+  #### LeetCode
+   - [Java](./Day-41/LeetCode/Java/Solution.java): Amount of Time for Binary Tree to Be Infected
