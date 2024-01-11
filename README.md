@@ -186,3 +186,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 41](./Day-41)
   #### LeetCode
    - [Java](./Day-41/LeetCode/Java/Solution.java): Amount of Time for Binary Tree to Be Infected
+
+ ### [Day 42](./Day-42)
+  #### LeetCode
+   - [Java](./Day-42/LeetCode/Java/Solution.java): Maximum Difference Between Node and Ancestor
