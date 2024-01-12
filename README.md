@@ -190,3 +190,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 42](./Day-42)
   #### LeetCode
    - [Java](./Day-42/LeetCode/Java/Solution.java): Maximum Difference Between Node and Ancestor
+
+ ### [Day 43](./Day-43)
+  #### LeetCode
+   - [Java](./Day-43/LeetCode/Java/Solution.java): Determine if String Halves Are Alike
