@@ -194,3 +194,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 43](./Day-43)
   #### LeetCode
    - [Java](./Day-43/LeetCode/Java/Solution.java): Determine if String Halves Are Alike
+
+ ### [Day 44](./Day-44)
+  #### LeetCode
+   - [Java](./Day-44/LeetCode/Java/Solution.java): Minimum Number of Steps to Make Two Strings Anagram
