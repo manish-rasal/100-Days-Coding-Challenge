@@ -198,3 +198,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 44](./Day-44)
   #### LeetCode
    - [Java](./Day-44/LeetCode/Java/Solution.java): Minimum Number of Steps to Make Two Strings Anagram
+
+ ### [Day 45](./Day-45)
+  #### LeetCode
+   - [Java](./Day-45/LeetCode/Java/Solution.java): Determine if Two Strings Are Close
