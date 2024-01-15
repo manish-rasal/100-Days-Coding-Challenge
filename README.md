@@ -202,3 +202,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 45](./Day-45)
   #### LeetCode
    - [Java](./Day-45/LeetCode/Java/Solution.java): Determine if Two Strings Are Close
+
+ ### [Day 46](./Day-46)
+  #### LeetCode
+   - [Java](./Day-46/LeetCode/Java/Solution.java): Find Players With Zero or One Losses
