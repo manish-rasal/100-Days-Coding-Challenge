@@ -206,3 +206,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 46](./Day-46)
   #### LeetCode
    - [Java](./Day-46/LeetCode/Java/Solution.java): Find Players With Zero or One Losses
+
+ ### [Day 47](./Day-47)
+  #### LeetCode
+   - [Java](./Day-47/LeetCode/Java/Solution.java): Insert Delete GetRandom O(1)
