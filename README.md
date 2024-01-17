@@ -210,3 +210,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 47](./Day-47)
   #### LeetCode
    - [Java](./Day-47/LeetCode/Java/Solution.java): Insert Delete GetRandom O(1)
+
+ ### [Day 48](./Day-48)
+  #### LeetCode
+   - [Java](./Day-48/LeetCode/Java/Solution.java): Unique Number of Occurrences
