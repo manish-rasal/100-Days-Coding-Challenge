@@ -214,3 +214,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 48](./Day-48)
   #### LeetCode
    - [Java](./Day-48/LeetCode/Java/Solution.java): Unique Number of Occurrences
+
+ ### [Day 49](./Day-49)
+  #### LeetCode
+   - [Java](./Day-49/LeetCode/Java/Solution.java): Climbing Stairs
