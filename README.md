@@ -222,3 +222,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 50](./Day-50)
   #### LeetCode
    - [Java](./Day-50/LeetCode/Java/Solution.java): Minimum Falling Path Sum
+
+ ### [Day 51](./Day-51)
+  #### LeetCode
+   - [Java](./Day-51/LeetCode/Java/Solution.java): Sum of Subarray Minimums
