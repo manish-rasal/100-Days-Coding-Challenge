@@ -226,3 +226,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 51](./Day-51)
   #### LeetCode
    - [Java](./Day-51/LeetCode/Java/Solution.java): Sum of Subarray Minimums
+
+ ### [Day 52](./Day-52)
+  #### LeetCode
+   - [Java](./Day-52/LeetCode/Java/Solution.java): House Robber
