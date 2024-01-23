@@ -234,3 +234,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 53](./Day-53)
   #### LeetCode
    - [Java](./Day-53/LeetCode/Java/Solution.java): Set Mismatch
+
+ ### [Day 54](./Day-54)
+  #### LeetCode
+   - [Java](./Day-54/LeetCode/Java/Solution.java): Maximum Length of a Concatenated String with Unique Characters
