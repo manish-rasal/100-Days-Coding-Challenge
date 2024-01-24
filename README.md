@@ -238,3 +238,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 54](./Day-54)
   #### LeetCode
    - [Java](./Day-54/LeetCode/Java/Solution.java): Maximum Length of a Concatenated String with Unique Characters
+
+ ### [Day 55](./Day-55)
+  #### LeetCode
+   - [Java](./Day-55/LeetCode/Java/Solution.java): Pseudo-Palindromic Paths in a Binary Tree
