@@ -242,3 +242,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 55](./Day-55)
   #### LeetCode
    - [Java](./Day-55/LeetCode/Java/Solution.java): Pseudo-Palindromic Paths in a Binary Tree
+
+ ### [Day 56](./Day-56)
+  #### LeetCode
+   - [Java](./Day-56/LeetCode/Java/Solution.java): Longest Common Subsequence
