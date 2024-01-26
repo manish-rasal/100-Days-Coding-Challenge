@@ -246,3 +246,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 56](./Day-56)
   #### LeetCode
    - [Java](./Day-56/LeetCode/Java/Solution.java): Longest Common Subsequence
+
+ ### [Day 57](./Day-57)
+  #### LeetCode
+   - [Java](./Day-57/LeetCode/Java/Solution.java): Out of Boundary Paths
