@@ -250,3 +250,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 57](./Day-57)
   #### LeetCode
    - [Java](./Day-57/LeetCode/Java/Solution.java): Out of Boundary Paths
+
+ ### [Day 58](./Day-58)
+  #### LeetCode
+   - [Java](./Day-58/LeetCode/Java/Solution.java): K Inverse Pairs Array
