@@ -254,3 +254,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 58](./Day-58)
   #### LeetCode
    - [Java](./Day-58/LeetCode/Java/Solution.java): K Inverse Pairs Array
+
+ ### [Day 60](./Day-60)
+  #### LeetCode
+   - [Java](./Day-60/LeetCode/Java/Solution.java): Implement Queue using Stacks
