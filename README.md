@@ -258,3 +258,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 60](./Day-60)
   #### LeetCode
    - [Java](./Day-60/LeetCode/Java/Solution.java): Implement Queue using Stacks
+
+ ### [Day 62](./Day-62)
+  #### LeetCode
+   - [Java](./Day-62/LeetCode/Java/Solution.java): Daily Temperatures
