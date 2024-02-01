@@ -262,3 +262,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 62](./Day-62)
   #### LeetCode
    - [Java](./Day-62/LeetCode/Java/Solution.java): Daily Temperatures
+
+ ### [Day 63](./Day-63)
+  #### LeetCode
+   - [Java](./Day-63/LeetCode/Java/Solution.java): Divide Array Into Arrays With Max Difference
