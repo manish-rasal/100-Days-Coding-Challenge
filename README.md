@@ -266,3 +266,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 63](./Day-63)
   #### LeetCode
    - [Java](./Day-63/LeetCode/Java/Solution.java): Divide Array Into Arrays With Max Difference
+
+ ### [Day 64](./Day-64)
+  #### LeetCode
+   - [Java](./Day-64/LeetCode/Java/Solution.java): Sequential Digits
