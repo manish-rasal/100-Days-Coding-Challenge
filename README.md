@@ -270,3 +270,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 64](./Day-64)
   #### LeetCode
    - [Java](./Day-64/LeetCode/Java/Solution.java): Sequential Digits
+
+ ### [Day 65](./Day-65)
+  #### LeetCode
+   - [Java](./Day-65/LeetCode/Java/Solution.java): Partition Array for Maximum Sum
