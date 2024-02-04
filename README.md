@@ -274,3 +274,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 65](./Day-65)
   #### LeetCode
    - [Java](./Day-65/LeetCode/Java/Solution.java): Partition Array for Maximum Sum
+
+ ### [Day 66](./Day-66)
+  #### LeetCode
+   - [C++](./Day-66/LeetCode/C++/Solution.cpp): Minimum Window Substring
