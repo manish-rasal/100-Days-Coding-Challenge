@@ -278,3 +278,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 66](./Day-66)
   #### LeetCode
    - [C++](./Day-66/LeetCode/C++/Solution.cpp): Minimum Window Substring
+
+ ### [Day 67](./Day-67)
+  #### LeetCode
+   - [Java](./Day-67/LeetCode/Java/Solution.java): First Unique Character in a String
