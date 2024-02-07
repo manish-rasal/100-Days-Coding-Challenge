@@ -286,3 +286,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 68](./Day-68)
   #### LeetCode
    - [Java](./Day-68/LeetCode/Java/Solution.java): Group Anagrams
+
+ ### [Day 69](./Day-69)
+  #### LeetCode
+   - [Java](./Day-69/LeetCode/Java/Solution.java): Sort Characters By Frequency
