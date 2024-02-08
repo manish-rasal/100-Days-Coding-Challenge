@@ -290,3 +290,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 69](./Day-69)
   #### LeetCode
    - [Java](./Day-69/LeetCode/Java/Solution.java): Sort Characters By Frequency
+
+ ### [Day 70](./Day-70)
+  #### LeetCode
+   - [Java](./Day-70/LeetCode/Java/Solution.java): Perfect Squares
