@@ -294,3 +294,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 70](./Day-70)
   #### LeetCode
    - [Java](./Day-70/LeetCode/Java/Solution.java): Perfect Squares
+
+ ### [Day 71](./Day-71)
+  #### LeetCode
+   - [Java](./Day-71/LeetCode/Java/Solution.java): Largest Divisible Subset
