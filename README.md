@@ -298,3 +298,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 71](./Day-71)
   #### LeetCode
    - [Java](./Day-71/LeetCode/Java/Solution.java): Largest Divisible Subset
+
+ ### [Day 72](./Day-72)
+  #### LeetCode
+   - [Java](./Day-72/LeetCode/Java/Solution.java): Palindromic Substrings
