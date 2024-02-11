@@ -302,3 +302,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 72](./Day-72)
   #### LeetCode
    - [Java](./Day-72/LeetCode/Java/Solution.java): Palindromic Substrings
+
+ ### [Day 73](./Day-73)
+  #### LeetCode
+   - [Java](./Day-73/LeetCode/Java/Solution.java): Cherry Pickup II
