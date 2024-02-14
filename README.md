@@ -310,3 +310,11 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 74](./Day-74)
   #### LeetCode
    - [Java](./Day-74/LeetCode/Java/Solution.java): Majority Element
+
+ ### [Day 75](./Day-75)
+  #### LeetCode
+   - [Java](./Day-75/LeetCode/Java/Solution.java): Find First Palindromic String in the Array
+
+ ### [Day 76](./Day-76)
+  #### LeetCode
+   - [Java](./Day-76/LeetCode/Java/Solution.java): Rearrange Array Elements by Sign
