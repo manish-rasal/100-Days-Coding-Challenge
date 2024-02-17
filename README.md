@@ -325,4 +325,8 @@ Each day's work is organized into folders by day and includes solutions in diffe
 
  ### [Day 78](./Day-78)
   #### LeetCode
-   - [Java](./Day-78/LeetCode/Java/Solution.java): Furthest Building You Can Reach
+   - [Java](./Day-78/LeetCode/Java/Solution.java): Least Number of Unique Integers after K Removals
+
+ ### [Day 79](./Day-79)
+  #### LeetCode
+   - [Java](./Day-79/LeetCode/Java/Solution.java): Furthest Building You Can Reach

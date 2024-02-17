@@ -1,31 +1,29 @@
 /**
- * Problem: Furthest Building You Can Reach
- * Description: You are given an integer array heights representing the heights of buildings, some bricks, and some ladders.
- *
- * You start your journey from building 0 and move to the next building by possibly using bricks or ladders.
- *
- * While moving from building i to building i+1 (0-indexed),
- *
- * If the current building's height is greater than or equal to the next building's height, you do not need a ladder or bricks.
- * If the current building's height is less than the next building's height, you can either use one ladder or (h[i+1] - h[i]) bricks.
- * Return the furthest building index (0-indexed) you can reach if you use the given ladders and bricks optimally.
+ * Problem: Least Number of Unique Integers after K Removals
+ * Description: Given an array of integers arr and an integer k. Find the least number of unique integers after removing exactly k elements.
  */
 class Solution {
-    public int furthestBuilding(int[] heights, int bricks, int ladders) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-
-        for (int i = 0; i < heights.length - 1; i++) {
-            if (heights[i] >= heights[i + 1]) continue;
-            bricks -= heights[i + 1] - heights[i];
-            pq.add(heights[i + 1] - heights[i]);
-
-            if (bricks < 0) {
-                bricks += pq.poll();
-                if (ladders > 0) ladders--;
-                else return i;
-            }
+    public int findLeastNumOfUniqueInts(int[] arr, int k) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i: arr) {
+            map.put(i, map.getOrDefault(i, 0) + 1);
         }
-
-        return heights.length - 1;
+        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(map.entrySet());
+        Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>() {
+            @Override
+            public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
+                return o1.getValue().compareTo(o2.getValue());
+            }
+        });
+        int n = list.size();
+        if(k == 0)
+            return n;
+        for(int i = 0; i < n; i++) {
+            if(k < list.get(i).getValue())
+                return n - i;
+            else
+                k = k - list.get(i).getValue();
+        }
+        return 0;
     }
 }
