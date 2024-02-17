@@ -322,3 +322,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 77](./Day-77)
   #### LeetCode
    - [Java](./Day-77/LeetCode/Java/Solution.java): Find Polygon With the Largest Perimeter
+
+ ### [Day 78](./Day-78)
+  #### LeetCode
+   - [Java](./Day-78/LeetCode/Java/Solution.java): Furthest Building You Can Reach
