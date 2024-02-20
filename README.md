@@ -338,3 +338,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 81](./Day-81)
   #### LeetCode
    - [Java](./Day-81/LeetCode/Java/Solution.java): Power of Two
+
+ ### [Day 82](./Day-82)
+  #### LeetCode
+   - [Java](./Day-82/LeetCode/Java/Solution.java): Missing Number
