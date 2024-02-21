@@ -342,3 +342,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 82](./Day-82)
   #### LeetCode
    - [Java](./Day-82/LeetCode/Java/Solution.java): Missing Number
+
+ ### [Day 83](./Day-83)
+  #### LeetCode
+   - [Java](./Day-83/LeetCode/Java/Solution.java): Bitwise AND of Numbers Range
