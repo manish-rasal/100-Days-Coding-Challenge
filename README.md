@@ -346,3 +346,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 83](./Day-83)
   #### LeetCode
    - [Java](./Day-83/LeetCode/Java/Solution.java): Bitwise AND of Numbers Range
+
+ ### [Day 84](./Day-84)
+  #### LeetCode
+   - [Java](./Day-84/LeetCode/Java/Solution.java): Find the Town Judge
