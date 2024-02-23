@@ -350,3 +350,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 84](./Day-84)
   #### LeetCode
    - [Java](./Day-84/LeetCode/Java/Solution.java): Find the Town Judge
+
+ ### [Day 85](./Day-85)
+  #### LeetCode
+   - [Java](./Day-85/LeetCode/Java/Solution.java): Cheapest Flights Within K Stops
