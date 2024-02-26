@@ -354,3 +354,15 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 85](./Day-85)
   #### LeetCode
    - [Java](./Day-85/LeetCode/Java/Solution.java): Cheapest Flights Within K Stops
+
+ ### [Day 86](./Day-86)
+  #### LeetCode
+   - [Java](./Day-86/LeetCode/Java/Solution.java): Find All People With Secret
+
+ ### [Day 87](./Day-87)
+  #### LeetCode
+   - [Java](./Day-87/LeetCode/Java/Solution.java): Greatest Common Divisor Traversal
+
+ ### [Day 88](./Day-88)
+  #### LeetCode
+   - [Java](./Day-88/LeetCode/Java/Solution.java): Same Tree
