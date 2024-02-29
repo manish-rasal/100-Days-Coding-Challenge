@@ -370,3 +370,11 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 89](./Day-89)
   #### LeetCode
    - [Java](./Day-89/LeetCode/Java/Solution.java): Diameter of Binary Tree
+
+ ### [Day 90](./Day-90)
+  #### LeetCode
+   - [Java](./Day-90/LeetCode/Java/Solution.java):
+
+ ### [Day 91](./Day-91)
+  #### LeetCode
+   - [Java](./Day-91/LeetCode/Java/Solution.java): Even Odd Tree
