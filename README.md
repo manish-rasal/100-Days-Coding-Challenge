@@ -378,3 +378,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 91](./Day-91)
   #### LeetCode
    - [Java](./Day-91/LeetCode/Java/Solution.java): Even Odd Tree
+
+ ### [Day 92](./Day-92)
+  #### LeetCode
+   - [Java](./Day-92/LeetCode/Java/Solution.java): Maximum Odd Binary Number
