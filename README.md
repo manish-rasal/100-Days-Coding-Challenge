@@ -382,3 +382,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 92](./Day-92)
   #### LeetCode
    - [Java](./Day-92/LeetCode/Java/Solution.java): Maximum Odd Binary Number
+
+ ### [Day 93](./Day-93)
+  #### LeetCode
+   - [Java](./Day-93/LeetCode/Java/Solution.java): Squares of a Sorted Array
