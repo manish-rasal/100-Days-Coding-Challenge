@@ -386,3 +386,11 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 93](./Day-93)
   #### LeetCode
    - [Java](./Day-93/LeetCode/Java/Solution.java): Squares of a Sorted Array
+
+ ### [Day 94](./Day-94)
+  #### LeetCode
+   - [Java](./Day-94/LeetCode/Java/Solution.java): Remove Nth Node From End of List
+
+ ### [Day 95](./Day-95)
+  #### LeetCode
+   - [Java](./Day-95/LeetCode/Java/Solution.java): Bag of Tokens
