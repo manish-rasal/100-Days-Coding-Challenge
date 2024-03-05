@@ -394,3 +394,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 95](./Day-95)
   #### LeetCode
    - [Java](./Day-95/LeetCode/Java/Solution.java): Bag of Tokens
+
+ ### [Day 96](./Day-96)
+  #### LeetCode
+   - [Java](./Day-96/LeetCode/Java/Solution.java): Minimum Length of String After Deleting Similar Ends
