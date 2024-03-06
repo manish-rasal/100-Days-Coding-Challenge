@@ -398,3 +398,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 96](./Day-96)
   #### LeetCode
    - [Java](./Day-96/LeetCode/Java/Solution.java): Minimum Length of String After Deleting Similar Ends
+
+ ### [Day 97](./Day-97)
+  #### LeetCode
+   - [Java](./Day-97/LeetCode/Java/Solution.java): Linked List Cycle
