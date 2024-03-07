@@ -402,3 +402,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 97](./Day-97)
   #### LeetCode
    - [Java](./Day-97/LeetCode/Java/Solution.java): Linked List Cycle
+
+ ### [Day 98](./Day-98)
+  #### LeetCode
+   - [Java](./Day-98/LeetCode/Java/Solution.java): Middle of the Linked List
