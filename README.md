@@ -406,3 +406,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 98](./Day-98)
   #### LeetCode
    - [Java](./Day-98/LeetCode/Java/Solution.java): Middle of the Linked List
+
+ ### [Day 99](./Day-99)
+  #### LeetCode
+   - [Java](./Day-99/LeetCode/Java/Solution.java): Count Elements With Maximum Frequency
