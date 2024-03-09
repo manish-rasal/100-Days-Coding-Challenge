@@ -410,3 +410,7 @@ Each day's work is organized into folders by day and includes solutions in diffe
  ### [Day 99](./Day-99)
   #### LeetCode
    - [Java](./Day-99/LeetCode/Java/Solution.java): Count Elements With Maximum Frequency
+
+ ### [Day 100](./Day-100)
+  #### LeetCode
+   - [Java](./Day-100/LeetCode/Java/Solution.java): Minimum Common Value
